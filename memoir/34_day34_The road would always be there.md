@@ -1,5 +1,5 @@
-# 34 _34일째\_ 길은 언제나 거기 있을 거야.
-###The road would always be there.
+### 34 _34일째\_ 길은 언제나 거기 있을 거야.
+#### The road would always be there.
 
 
 산티아고 길 프랑스 길을 걸은 지 34일째 되던 날 11월 12일.
@@ -48,8 +48,8 @@
 
 의사가 내 발을 보고 구글 번역기를 돌려 보여준 첫 마디는
 
-You shouldn't walk.
-너 걸으면 안돼.
+> "You shouldn't walk."  
+> "걸으면 안돼."
 
 였다.
 의사는 말을 계속 이어갔다.
@@ -62,7 +62,7 @@ You shouldn't walk.
 
 그러고는 곧 옆방에서 다른 의사를 불러 와서 내 발의 상태를 보며 한참을 서로 의논하였는데 물론 스페인어였기에 알아들을 수는 없었다. 다만 고개를 가로로 젓는다거나 심각한 표정으로 내 발을 촉진하며 붓기와 열감을 체크하는 모습에서 느낌상 앞서 내게 번역기로 보여 준 그 말을 서로 하고 있는 것 같았다.
 
-이 정도면 걷게 해선 안돼. 쉬어야지. 상태가 심각한데?
+>이 정도면 걷게 해선 안돼. 쉬어야지. 상태가 심각한데?  
 감염의 위험도 있어 보여.
 
 정도의 대화가 아니었을까?
@@ -72,23 +72,24 @@ You shouldn't walk.
 
 서로 이야기를 끝낸 의사 한 명은 옆 방으로 돌아갔고 처음 나를 진료한 의사는 다시 내게 말했다.
 
-걸으면 안돼. 이 상태로 더 걸으면 감염될 수 있어.
-절대로 걸으면 안돼.
+> "걸으면 안돼. 이 상태로 더 걸으면 감염될 수 있어."   
+> "절대로 걸으면 안돼."
 
 이제 산티아고가 겨우 100Km 남짓 남았고, 날짜로는 5일만 더 걸으면 도착인데 여기까지 와서 시간 내에 못 걸을지도 모른다는 생각에 갑자기 막막해졌다.
 
 진료를 보아준 의사는 내게 계속해서 고개를 저으며 걸으면 안된다고
 
-You shouldn't walk.
-You shouldn't walk.
-You shouldn't walk.
-걸으면 안돼.
-걸으면 안돼.
-걸으면 안돼.
+> "You shouldn't walk."  
+"You shouldn't walk."  
+"You shouldn't walk."  
+"걸으면 안돼."  
+"걸으면 안돼."  
+"걸으면 안돼."  
 
-매우 단호한 눈빛으로 반복해서 말했다. 그때 내가 구글 번역기를 통해 의사에게 말했다.
+매우 단호한 눈빛으로 반복해서 말했다. 
+그때 내가 구글 번역기를 통해 의사에게 말했다.
 
-I don't have enough days to the Santiago.
+> "I have not enough days to the Santiago."  
 난 산티아고까지 갈 시간이 부족해.
 
 내겐 날짜가 부족했다. 한국에 돌아가는 비행기 날짜는 그 날로부터 7일 뒤로 정해져 있었다. 비행기 날짜를 미룰 수는 없는 상황이었다.
@@ -101,8 +102,8 @@ I don't have enough days to the Santiago.
 
 그때 내 번역기를 본 의사는 나를 지그시 쳐다보더니 스페인어로 말을 했고 다시 그 말을 번역기로 돌려 내게 보여 주었다.
 
-The road would always be there.
-길은 언제나 거기 있을 거야
+> "The road would always be there."  
+"길은 언제나 거기 있을 거야."
 
 ‘지금이 아니더라도.’ 라고 말하는 것 같았다.
 
@@ -164,7 +165,9 @@ The road would always be there.
 
 이제 돌아온 지금 내가 무언가에 조급해 있다고 느껴지면 다시 한 번 그 의사의 말을 떠올린다.
 
-The road would always be there.
-El camino siempre estaría ahí
-길은 언제나 거기 있을 거야.
+> The road would always be there. 
+
+> El camino siempre estaría ahí  
+ 
+> 길은 언제나 거기 있을 거야.
 
