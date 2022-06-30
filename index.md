@@ -3,7 +3,7 @@
 ### [01 _출발\_ 모든 것은 무게가 있다.](/memoir/01_departure_Everything has its own weight.md)
 ### [02 _1일째\_ 예측 불가능한 피레네](/memoir/02_day1_Unpredictable Pyrenees.md)
 ### [03 _3일째\_ 내리막의 기울기에 따른 물집의 함수식을 구하시오. (empty)]()
-### [04 _6일째\_ 이 신발로? 너무 위험해!](/memoir/04_day6_This shoes too dangerous.md)
+### [04 _5일째\_ 이 신발로? 너무 위험해!](/memoir/04_day5_This shoes too dangerous.md)
 ### [부록 1 _짐싸기\_ (empty)]()
 ### [05 _7일째\_ 넌 네가 몇살인 것 같아?](/memoir/05_day7_How old do you feel.md)
 ### [06 _8일째\_ 뼈 맞는 고통 (empty)]()
