@@ -1,4 +1,4 @@
-###  04 _5일\_ 이 신발로? 너무 위험해!
+###  04 _5일째\_ 이 신발로? 너무 위험해!
 #### This shoes? Veeeeeery dangerous! Very, very dangerous!!
 
 
