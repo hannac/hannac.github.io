@@ -1,6 +1,6 @@
 # HannaC's Drafts : El Camino De Santiago
 
-### [00 _결정\_ 저기를 걸어야 겠어.](/drafts/00_decision_going_to_walk_there.md)
+### [00 _결심\_ 저기를 걸어야 겠어.](/drafts/00_decision_going_to_walk_there.md)
 ### [01 _출발\_ 모든 것은 무게가 있다.](/drafts/01_departure_Everything has its own weight.md)
 ### [02 _1일째\_ 예측 불가능한 피레네](/drafts/02_day1_Unpredictable Pyrenees.md)
 ### [03 _3일째\_ 물집의 함수식](/drafts/03_day3_Function_blister.md)
