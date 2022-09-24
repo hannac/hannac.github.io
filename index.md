@@ -8,7 +8,7 @@
 ### [04 _5일째\_ 이 신발로? 너무 위험해!](/drafts/04_day5_This shoes very dangerous.md)
 ### [05 _7일째\_ 넌 네가 몇살인 것 같아?](/drafts/05_day7_How old do you feel.md)
 ### [06 _8일째\_ 뼈 맞는 고통](/drafts/06_day8_pain_of_bone_hit.md)
-### [07 _9일째\_ 그게 바로 까미노지. (empty)]()
+### [07 _9일째\_ 그게 바로 까미노지.](/drafts/07_day9_It's_Camino.md)
 ### [부록 2 _물건 버리기 남기기\_](/drafts/appendix_02.md)
 ### [08 _11일째\_ 더 나쁠 수도 있어.](/drafts/08_day11_It could be worse.md)
 ### [09 _13일째\_ 한국에서 온 서퍼 채한나를 소개합니다~ (empty)]()
