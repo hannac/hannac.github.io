@@ -20,7 +20,7 @@
 ### [14 _21일째\_ 침묵의 17km](/drafts/14_day21_silent_17km.md)
 ### [15 _23일째\_ 무한 콜라교를 믿습니까!](/drafts/15_day23_Infinite_Coke_Faith.md)
 ### [부록 4 _내가 사먹은 음식들\_ (empty)]()
-### [16 _24일째\_ 카페 콘 레체 (empty)]()
+### [16 _24일째\_ 카페 콘 레체](/drafts/16_day24_donation_alberge_and_cafe_con_leche.md)
 ### [17 _26일째\_ 임계점 (empty)]()
 ### [18 _29일째\_ 필그림스 하이 (empty)]()
 ### [19 _30일째\_ 이 길에서 얻은 것, 찾은 것(empty)]()
