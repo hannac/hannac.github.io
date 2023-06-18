@@ -13,7 +13,7 @@
 ### [08 _11일째\_ 더 나쁠 수도 있어.](/drafts/08_day11_It could be worse.md)
 ### [09 _13일째\_ 한국에서 온 서퍼 채한나를 소개합니다~ (empty)]()
 ### [10 _14일째\_ 내일 너는 더 강해져 있을거야.](/drafts/10_day14_tomorrow_you_will_be_stronger.md)
-### [11 _15일째\_ 이 길에서 버린 것. (empty)]()
+### [11 _15일째\_ 이 길에서 버린 것.](/drafts/11_day15_What_I_throw_away_on_el_camino.md)
 ### [부록 3 _몸관리\_ (empty)]()
 ### [12 _16일째\_ 부르고스에서의 휴식 (empty)]()
 ### [13 _18일째\_ 진즉 떡실신이지!!](/drafts/13_day18_I'm ready for town.md)
