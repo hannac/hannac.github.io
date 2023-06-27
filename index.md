@@ -21,7 +21,7 @@
 ### [15 _23일째\_ 무한 콜라교를 믿습니까!](/drafts/15_day23_Infinite_Coke_Faith.md)
 ### [부록 4 _내가 사먹은 음식들\_ (empty)]()
 ### [16 _24일째\_ 카페 콘 레체](/drafts/16_day24_donation_alberge_and_cafe_con_leche.md)
-### [17 _26일째\_ 임계점 (empty)]()
+### [17 _25일째\_ 임계점 (writing...)](/drafts/17_day25_Critital_point.md)
 ### [18 _29일째\_ 필그림스 하이 (empty)]()
 ### [19 _30일째\_ 이 길에서 얻은 것, 찾은 것(empty)]()
 ### [부록 5 _까미노의 요리왕\_ (empty)]()
