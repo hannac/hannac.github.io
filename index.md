@@ -23,7 +23,7 @@
 ### [16 _24일째\_ 카페 콘 레체](/drafts/16_day24_donation_alberge_and_cafe_con_leche.md)
 ### [17 _25일째\_ 임계점](/drafts/17_day25_Critital_point.md)
 ### [18 _29일째\_ 필그림스 하이](/drafts/18_day29_pilgrim's_high.md)
-### [19 _30일째\_ 이 길에서 얻은 것, 찾은 것(empty)]()
+### [19 _30일째\_ 이 길에서 얻은 것, 찾은 것](/drafts/19_day30_What_I_get_on_el_Camino.md)
 ### [부록 5 _까미노의 요리왕\_ (empty)]()
 ### [20 _32일째\_ 오 세브레이로 (empty)]()
 ### [21 _34일째\_ 길은 언제나 거기 있을 거야.](/drafts/21_day34_The road would always be there.md)
