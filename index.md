@@ -25,7 +25,7 @@
 ### [18 _29일째\_ 필그림스 하이](/drafts/18_day29_pilgrim's_high.md)
 ### [19 _30일째\_ 이 길에서 얻은 것, 찾은 것](/drafts/19_day30_What_I_get_on_el_Camino.md)
 ### [부록 5 _까미노의 요리왕\_ (empty)]()
-### [20 _32일째\_ 오 세브레이로 (empty)]()
+### [20 _32일째\_ 오 세브레이로](/drafts/20_day32_O_Cebreiro.md)
 ### [21 _34일째\_ 길은 언제나 거기 있을 거야.](/drafts/21_day34_The road would always be there.md)
 ### [22 _39일째\_ 만날 사람은 만나진다. (empty)]()
 ### [23 _40일째\_ 하나의 문, 그 후 (empty)]()
