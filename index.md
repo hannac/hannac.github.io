@@ -27,6 +27,6 @@
 ### [부록 5 _까미노의 요리왕\_ (empty)]()
 ### [20 _32일째\_ 오 세브레이로](/drafts/20_day32_O_Cebreiro.md)
 ### [21 _34일째\_ 길은 언제나 거기 있을 거야.](/drafts/21_day34_The road would always be there.md)
-### [22 _39일째\_ 만날 사람은 만나진다. (empty)]()
+### [22 _39일째\_ 만날 사람은 만나진다.](/drafts/22_day39_meet_the_person_to_meet.md)
 ### [23 _40일째\_ 하나의 문, 그 후 (empty)]()
 ### [부록 6 _병원에 가게 된다면\_ (empty)]()
